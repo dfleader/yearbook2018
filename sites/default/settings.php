@@ -797,3 +797,5 @@ $databases['default']['default'] = array (
 );
 $settings['install_profile'] = 'standard';
 $config_directories['sync'] = 'sites/default/files/config_GEeeYb_mjBUjnSua3n2aycPWitLo5vhrNWEIEp62MsW9wDvUnHJ4Ulh_dv4VvpmHE6ZDEVhrKQ/sync';
+
+$GLOBALS['_kint_settings']['maxLevels'] = 2;

@@ -1,0 +1,6 @@
+name: Yearbook Custom
+description: Various custom Yearbook features.
+package: Custom
+
+type: module
+core: 8.x
