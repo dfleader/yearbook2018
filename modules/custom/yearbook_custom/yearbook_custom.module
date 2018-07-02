@@ -8,7 +8,7 @@ $build['#configuration']['label'] = t('What are you looking for?');
 
 function yearbook_custom_block_view_alter(array &$build,
 \Drupal\Core\Block\BlockPluginInterface $block) {
-ksm($build);
+//ksm($build);
 //$build['#configuration']['label'] = t('What are you looking for?');
 ;
 }
